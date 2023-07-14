@@ -2,10 +2,8 @@ name: Crawling
 version: 1.0.0
 src-namespace-prefix: DavyCraft648\Crawling
 main: DavyCraft648\Crawling\Main
-api: 5.2.0
+api: [4.23.0, 5.3.0]
 description: "Crawl inside 1 block like in Minecraft: Java Edition"
 author: DavyCraft648
 mcpe-protocol: [594]
 website: https://github.com/DavyCraft648/Crawling
-depend:
-  - ShortSneak
